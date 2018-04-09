@@ -3,7 +3,5 @@ A Simple and Straightforward Kentico Cloud Delivery SDK using JavaScript and JQu
 
 A client library for retrieving content from Kentico Cloud that uses JavaScript and JQuery only.
 
-Feedback & Contribution
-
-## Feedback & Contributions are welcomed. 
-Feel free to take/start an issue & submit PR.
+## Feedback & Contribution
+Feedback & Contributions are welcomed. Feel free to take/start an issue & submit PR.
