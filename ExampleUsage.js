@@ -20,3 +20,15 @@ kenticoCloud.GetItemsByTaxonomyTag(taxonomyFilter, options2).then(kenticoCloud.H
 
 var options1 = {pagination: {skip: 0, limit: 1}, sort: {sortBy: "system.name", sortOrder: "asc"}};
 kenticoCloud.GetItemsByTaxonomyTag(taxonomyFilter).then(kenticoCloud.Helpers.LogReturn);
+
+
+/*Your custom Function to do something with the returned data  e.g append it to to the DOM*/
+
+function AppendToHTML(data) {
+
+    $("#headline").append(data.item.elements.product_name.value);
+    $("#bodytext").append(data.item.elements.long_description.value);
+    $("#banner").attr("src", data.item.elements.image.value[0].url);
+
+}
+
