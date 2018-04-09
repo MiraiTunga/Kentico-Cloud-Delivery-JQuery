@@ -20,5 +20,7 @@ function AppendToHTML(data) {
 }
 ```
 
+see ExampleUsage.js for more exmaples 
+
 ## Feedback & Contribution
 Feedback & Contributions are welcomed. Feel free to take/start an issue & submit PR.
