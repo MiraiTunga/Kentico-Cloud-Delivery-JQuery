@@ -1,6 +1,5 @@
 /*
- * Go to https://bitbucket.org/TungaBigBlue/kentico-cloud-delivery-client for example usage 
- * Examples found in repo main.ja
+ * Examples found in main.ja
  * */
 function KenticoCloudDeliveryClient(projectId, get_unpublished) {
 
