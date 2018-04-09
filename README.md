@@ -5,5 +5,5 @@ A client library for retrieving content from Kentico Cloud that uses JavaScript 
 
 Feedback & Contribution
 
-##Feedback & Contributions are welcomed. 
+## Feedback & Contributions are welcomed. 
 Feel free to take/start an issue & submit PR.
